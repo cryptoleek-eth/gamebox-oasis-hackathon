@@ -1,0 +1,227 @@
+{
+    "home": {
+        "titleSmall": "Web3 Gaming Platform with Real Economy",
+        "titleBig": "Web3 GAMING SOLUTION",
+        "slogan": "PLAY | COMPETE | EARN | FUN",
+        "description": "The GameBox web3 gaming platform, offers a feature rich, configurable and customizable web3 gaming experience. The focus is to provide a web3 first gaming solution that offers highly engaged web3 games through the provision of quality casual games and the comprehensive tournaments. All the users on the platform control their valuable assets through NFTs and compete with others for real economy!",
+        "community": "Community all over the world"
+    },
+    "overview": {
+        "titleBig": "The first Web3 Casual Gaming Platform",
+        "titleSmall": "Web3 Gaming Platform and Tournaments Solutions",
+        "leftIntro": "Do you want to play classic games such as Flappy Bird and Tank war in a web3 gaming style with real economy? Gamebox offers easy to build and customize gaming platform for all the popular casual gaming solutions",
+        "rightIntro": "The gaming platform is compatible across all desktop and mobile web browsers and operating systems. The GameZBoost™ gaming platform is designed for integrations with Mobile Networks (MNO’s), Content Aggregators, Billing Platforms, Publishers, we have a solution for you.  GameZBoost™ takes care of the site setup, content, customization, hosting, updates and provides a comprehensive backoffice platform.",
+        "subtitle": "The Core Focus Areas of the Platform",
+        "descs": [
+            {
+                "title": "Gaming Platform",
+                "catergory": "platform",
+                "intros": [
+                    "Deploy Full Featured Web3 Games",
+                    "Provide real economy to every gamers",
+                    "You will have fun while you make some money",
+                    "Gaming SDK provided for future integrations"
+                ]
+            },
+            {
+                "title": "Tournaments",
+                "catergory": "tournament",
+                "intros": [
+                    "Weekly tournament provided to attracts millions of players around the world.",
+                    "Dedicated gaming tournament fund for all the matches to create a competitive gaming env"
+                ]
+            },
+            {
+                "title": "Premium Games",
+                "catergory": "game",
+                "intros": [
+                    "Game will be made in Unity2D/3D to provide best gaming experiences.",
+                    "Instant Play & High Score, incl Live Leaderboards to show off your skills.",
+                    "Games Across All Popular Gaming Genres incl MOBA, Survival, Shooting, APRG etc etc."
+                ]
+            },
+            {
+                "title": "Community",
+                "catergory": "media",
+                "intros": [
+                    "Build and manage personal Friends lists to compete against",
+                    "Invite them through email, Messenger & WhatsApp",
+                    "Invite your family and friends to join in the multiplayer games",
+                    "Challenge them for glory in the regular Tournaments",
+                    "View their scores on the Leaderboards"
+                ]
+            }
+        ]
+    },
+    "features": {
+        "titleBig": "Casual Gaming Platform",
+        "titleSmall": "TOURNAMENTS | HTML5 & APP GAMES",
+        "descsHeading": "Features of the white label tournaments & games platform",
+        "descs": {
+            "left": [
+                {
+                    "title": "Deployment Options",
+                    "intros": [
+                        "Tournament Focused Gaming Site",
+                        "White Label Games Sites"
+                    ]
+                },
+                {
+                    "title": "Integration Options",
+                    "intros": [
+                        "SSO API Integration",
+                        "Payment Solution Integration",
+                        "Ad Server & Analytics API Integration",
+                        "Language Localization"
+                    ]
+                },
+                {
+                    "title": "Platform Features",
+                    "intros": [
+                        "Single Eliminator + High Score Tournaments",
+                        "Tournament Prizes + Progressive Jackpot Feature",
+                        "Premium Games Across All Genres",
+                        "Featured Games Management",
+                        "Users Favorite Games",
+                        "Comprehensive News / Blog Solution",
+                        "Live High Score Leaderboards",
+                        "Game Rating / Voting"
+                    ]
+                },
+                {
+                    "title": "Other Features",
+                    "intros": [
+                        "Fully Adaptive and Responsive (Fluid)",
+                        "SEO Optimized Platform",
+                        "Fully Hosted Solution or Self Hosted",
+                        "PayPal Payment Integration (included)",
+                        "Default Template – Tournaments, Games, Apps or News"
+                    ]
+                }
+            ],
+            "right": [
+                {
+                    "title": "Game Studio Integration",
+                    "intros": [
+                        "API’s for HTML5 and App Games",
+                        "Integration APIs"
+                    ]
+                },
+                {
+                    "title": "Backoffice Features",
+                    "intros": [
+                        "Tournament Setup + Prizes",
+                        "Single Eliminator Tournaments",
+                        "Games Management",
+                        "Editors Picks",
+                        "Featured Games",
+                        "Game Landing Pages",
+                        "Game Reviews + Links",
+                        "Player Management",
+                        "News Article Management",
+                        "News Editor Management",
+                        "Advertorial Management",
+                        "Site & Page Meta Settings",
+                        "Manage Content Pages",
+                        "Real-time Site Customization (WYSIWYG)"
+                    ]
+                },
+                {
+                    "title": "Extensive Reporting",
+                    "intros": [
+                        "Game Activity Reports",
+                        "Player Activity Reports",
+                        "Promotions Reporting",
+                        "App Store Downloads Report",
+                        "Featured Games",
+                        "Tournaments Reporting",
+                        "Dashboard Overview Report"
+                    ]
+                }
+            ]
+        },
+        "subtitle": "Why the GameZBoost white label games platform?",
+        "reasons": {
+            "left": [
+                "Up to date technology stack",
+                "Optimised for reduced latency",
+                "Scalable Cloud solution",
+                "Rich user experience",
+                "Multiple levels of engagement",
+                "Focus on driving additional user value"
+            ],
+            "right": [
+                "Streamlined API user onboarding solution",
+                "Optimised site updates and addition of new features",
+                "Emphasis on quality games over quantity",
+                "Multiple revenue streams",
+                "Democratization of currency",
+                "Player & community centric approach"
+            ]
+        },
+        "bottom": "Primary goal is to drive deeper and more meaningful user engagement."
+    },
+    "games": {
+        "title": "We have the platform. We want your Games!",
+        "info": "GameZBoost, the goto provider for casual games tournament solutions. Our community centric approach, that is underpinned by the full featured tournaments framework, helps you unlock the true earning potential of your games.",
+        "descs": {
+            "left": {
+                "title": "How it works?",
+                "intros": [
+                    "Register as a developer.",
+                    "Integrate our full suite of APIs.",
+                    "Launch your games.",
+                    "Tournaments will be configured.",
+                    "Access revenue and performance reports in real time."
+                ]
+            },
+            "right": {
+                "title": "What we’re looking for?",
+                "intros": [
+                    "Primary focus is casual / hyper-casual games.",
+                    "Single and multiplayer HTML5 games.",
+                    "The submitted games needs to be bug free and fully tested.",
+                    "Multi language support is a bonus.",
+                    "We take care of the billing, prizes, promotions and player incentive schemes."
+                ]
+            }
+        },
+        "subtitle": "Overview of the games content available on the GameZBoost gaming platform:",
+        "bottomInfo": [
+            {
+                "summary": "Mobile Games (HTML5)",
+                "details": "titles across Action, Arcade, 3-in-a-Row, Board, Card, Casino, Driving, Education, Kids, Puzzle, Retro, Strategy, Sports, Word, etc."
+            },
+            {
+                "summary": "Game API’s (HTML5 & Unity)",
+                "details": "Studios can integrate with the GameZBoost API’s to interface with the platform features, incl. SSO, high score, leaderboards, tournament, subscriptions, revenue tracking, etc."
+            }
+        ]
+    },
+    "about": {
+        "title1": "About GameZBoost",
+        "desc1": [
+            "GameZBoost (Pty) Ltd is a privately owned company, the company is incorporated in the Republic of South Africa, the business has a global footprint of clients, partners and users. The shareholders are Mark van Diggelen, the founder, majority shareholder and CEO, and TriTech Global.",
+            "The GameZBoost white label games platform has been and is used by some of the top international publishers, including: RTL Group, Network 18, NBC Universal, Sony Pictures Entertainment, Independent Newspapers, Media24, Burger King New Zealand, to name but a few."
+        ],
+        "title2": "Standing out from the Crowd",
+        "desc2": [
+            "Established global network of strategic clients, partners and game developers",
+            "Highly customizable, feature rich, modular solution",
+            "Integrated gaming solution for game developers and key publishers wishing to partner. The platform eliminates the need to publishers and developers to integrate on a 1 on 1 basis",
+            "Entrenched with key customers, enhancing recurring revenue and future visibility",
+            "22 years experience within the gaming sector (Casual, Social, Mobile, MMO, Bingo, Lottery, Poker, Casino) + 26 years within the online space (SEO, SEM, Community Building, Web Dev).",
+            "Proven, scalable and stable platform, with broad scope of gaming services – already used by some of the top global publishers & broadcasters.",
+            "Limited impact on the publishers tech dev resources – we take care of the bulk of the development and integration.",
+            "A fully hosted platform that reduces load on publishers infrastructure.",
+            "Engaging premium games titles for your users, from premium game studios.",
+            "Immediate access to multiple revenue streams.",
+            "Constant new features and games – we have an extensive R&D program.",
+            "Flexible partnering terms and business model tailoring based on your size, audience and existing user base.",
+            "Our clients are most impressed with our responsiveness, flexibility, knowledge of the industry, the ability to easily integrate with multiple providers and the revenue earning ability of the site, while growing traffic and brand exposure to their primary brands.",
+            "Strong growth trajectory coupled with rapidly improving margins"
+        ],
+        "title3": "About TriTech Global",
+        "desc3": "Tritech Global is a technology investment holding company spanning a number of market leading business verticals in multiple geographic jurisdictions around the world. Its investment philosophy is to identify scalable businesses underpinned by patented or proprietary technology that unlocks a big market need. The group is headed up by media pioneer William Kirsh."
+    }
+}

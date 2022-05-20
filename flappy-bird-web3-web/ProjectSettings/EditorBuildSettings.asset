@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Web3Unity/Scenes/WebLogin.unity
+    guid: a1b2001e782bb47659732d7e2bcdc35f
+  - enabled: 1
+    path: Assets/Game/Scenes/GameScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Game/Scenes/LeaderboardScene.unity
+    guid: 8956ff8eb1cba4dfa8086775acb2b735
+  - enabled: 1
+    path: Assets/Game/Scenes/BuyScene.unity
+    guid: ce11492c980af4d79a15ebd10c53c6f3
+  - enabled: 1
+    path: Assets/Game/Scenes/RedeemScene.unity
+    guid: f78dfc7bb77a34b009aba2cbc54a9d1f
+  - enabled: 1
+    path: Assets/Game/Scenes/LoadingScene.unity
+    guid: 1b6b6dbc79ad947d79a46d5a476f64b5
+  m_configObjects: {}
